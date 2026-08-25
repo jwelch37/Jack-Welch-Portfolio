@@ -1,9 +1,12 @@
-# A2 – Truss Stress Analysis
+# A2 – 
 
-## Objective
+## Objective  
 
 
-## Analyze
+
+## Analyze  
+Dfam: An important guideline/design rule for Additive Manufacturing is a minimum wall thickness and feature size. This minimum varies depending on the type of printing being done. If components are too small, they can warp and deform under the higher temperatures during printing.
+(https://www.wevolver.com/article/design-for-additive-manufacturing-a-dfam-guide-for-engineers)  
 
 
 ## Decide
