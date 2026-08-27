@@ -13,3 +13,7 @@ Small group: My group mates were discussing how layer adhesion issues can be sol
 ## Download: ##  
 
 I chose to print a small button, I thought this was a great trial for my first print. It was small, flat, and I could possibly use it.  
+<img src="SC3.png" width="35%" alt="Button">  
+
+I also thought about printing this boat that you pull out of the frame and put together, or another design that worked similarly. However, I thought it may be too complicated or take two long, an I didn't want to hold my group up.  
+<img src="SC2.png" width="35%" alt="Boat">
