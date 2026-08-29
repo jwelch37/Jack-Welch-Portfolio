@@ -16,4 +16,6 @@ I chose to print a small button, I thought this was a great trial for my first p
 <img src="SC3.png" width="35%" alt="Button">  
 
 I also thought about printing this boat that you pull out of the frame and put together, or another design that worked similarly. However, I thought it may be too complicated or take two long, an I didn't want to hold my group up.  
-<img src="SC2.png" width="35%" alt="Boat">
+<img src="SC2.png" width="35%" alt="Boat"> This may be a good idea for future printing.  
+
+I downloaded 
