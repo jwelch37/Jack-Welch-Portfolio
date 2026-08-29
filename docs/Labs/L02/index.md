@@ -18,7 +18,7 @@ I chose to print a small button, I thought this was a great trial for my first p
 I also thought about printing this boat that you pull out of the frame and put together, or another design that worked similarly. However, I thought it may be too complicated or take two long, an I didn't want to hold my group up.  
 <img src="SC2.png" width="35%" alt="Boat"> This may be a good idea for future printing.  
 
-I downloaded the print off of printables as an .stl file, so it immediately opened into prusaslicer. I also had my group email me there .stl files so I could load them all into the same print.  
+I downloaded the print off of printables as an STL file, so it immediately opened into prusaslicer. I also had my group email me there STL files so I could load them all into the same print.  
 <img src="SC1.png" width="35%" alt="Download">  
 
 ## Preprocessor: ##  
@@ -29,3 +29,12 @@ The print duration can be seen above in the right photo, I had expected it to ta
 
 Here are the print details and G-code uploaded to the usb drive.  
 <img src="SC6.png" width="15%" alt="details">  <img src="SC7.png" width="35%" alt="details2">   
+
+## Print: ##  
+
+We use PETG to print on print #13. I print with Saniyah Wilson, Ethan Minton, and Nicholas Brady.  
+We started by loading the usb and it immediately gave an error message that the material loaded on the G-code was not what was loaded on the printer. This confused us because we had made sure that PETG was loaded in the printer, but we paused to double check, in that time the error message had went away and allowed us to initiate the print.  
+
+
+
+
