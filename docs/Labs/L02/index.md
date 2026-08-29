@@ -37,6 +37,10 @@ We started by loading the usb and it immediately gave an error message that the 
 <img src="IMG_0405.jpeg" width="35%" alt="initiate">  
 A video of a few minutes into the print [HERE](https://drive.google.com/file/d/19bdVJ75ULQf-HQFY4vueCWedacS3Q1yD/edit)  
 
+The printer then went through a long heating process and probing process.  
+The printer probing: [HERE](https://drive.google.com/file/d/15LfE8RWpBzzbC0ZOXrNYtwI18Hbt0-b1/edit)  
+
+
 
 
 
