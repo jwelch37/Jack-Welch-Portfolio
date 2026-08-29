@@ -18,4 +18,5 @@ I chose to print a small button, I thought this was a great trial for my first p
 I also thought about printing this boat that you pull out of the frame and put together, or another design that worked similarly. However, I thought it may be too complicated or take two long, an I didn't want to hold my group up.  
 <img src="SC2.png" width="35%" alt="Boat"> This may be a good idea for future printing.  
 
-I downloaded 
+I downloaded the print off of printables as an .stl file, so it immediately opened into prusaslicer. I also had my group email me there .stl files so I could load them all into the same print.  
+<img src="SC1.png" width="35%" alt="Download">  
