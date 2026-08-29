@@ -35,10 +35,18 @@ Here are the print details and G-code uploaded to the usb drive.
 We use PETG to print on print #13. I print with Saniyah Wilson, Ethan Minton, and Nicholas Brady.  
 We started by loading the usb and it immediately gave an error message that the material loaded on the G-code was not what was loaded on the printer. This confused us because we had made sure that PETG was loaded in the printer, but we paused to double check. In that time the error message had went away and allowed us to initiate the print.  
 <img src="IMG_0405.jpeg" width="35%" alt="initiate">  
-A video of a few minutes into the print [HERE](https://drive.google.com/file/d/19bdVJ75ULQf-HQFY4vueCWedacS3Q1yD/edit)  
 
 The printer then went through a long heating process and probing process.  
 The printer probing: [HERE](https://drive.google.com/file/d/15LfE8RWpBzzbC0ZOXrNYtwI18Hbt0-b1/edit)  
+
+A video of a few minutes into the print [HERE](https://drive.google.com/file/d/19bdVJ75ULQf-HQFY4vueCWedacS3Q1yD/edit)  
+
+We ran into an issue in printing, the nozzle was not taught enough and could not finish printing and had to be restarted.  
+
+Here is the completed print:  
+<img src="IMG_5730.jpeg" width="35%" alt="finalprint"> <img src="IMG_5733.jpeg" width="35%" alt="finalprint2">  
+
+Side by side of 
 
 
 
