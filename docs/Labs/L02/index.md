@@ -20,3 +20,10 @@ I also thought about printing this boat that you pull out of the frame and put t
 
 I downloaded the print off of printables as an .stl file, so it immediately opened into prusaslicer. I also had my group email me there .stl files so I could load them all into the same print.  
 <img src="SC1.png" width="35%" alt="Download">  
+
+## Preprocessor: ##  
+
+The orienting and slicing process went quite smoothly. All but one of my groupmates prints were already to proper scale (<.25 in tall). I chose the build orientation because of the button's natural flat surface. No supports were needed for any of the prints, and all of them had flat surfaces. One teammates print needed scaled, which I did by directly inputting a measurement into the z-component, which then changed the x and y-component accordingly.  
+<img src="SC4.png" width="35%" alt="Print"> <img src="SC5.png" width="35%" alt="scale">  
+Here are the print details.  
+<img src="SC1.png" width="35%" alt="Download">  
