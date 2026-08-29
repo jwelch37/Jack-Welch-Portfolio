@@ -46,7 +46,15 @@ We ran into an issue in printing, the nozzle was not taught enough and could not
 Here is the completed print:  
 <img src="IMG_5730.jpeg" width="35%" alt="finalprint"> <img src="IMG_5733.jpeg" width="35%" alt="finalprint2">  
 
-Side by side of 
+Side by side of the unsuccessful and successful prints:  
+<img src="IMG_0408.jpeg" width="35%" alt="print3">  
+
+# Lessons Learned: #  
+
+It took about an hour or more from start to finish, especially due to the unsuccessful first print. I learned multiple things during this process, first being that the printer should be preheated if I am trying to print in a time crunch because the heating took much longer than expected. Second being how to easily scale a print in prusaslicer. This includes how the scale of a print impacts the print time. In whole, I learned the process of taking a print from download, slicing, loading it into the printer, and getting the final product. I also learned the structure of PETG, and am looking forward to trying PLA and other materials to compare. My teammate Ethan was a big help during the process, I was not able to stay after class for the print to finish and he was able to give me my print and let me know what had gone wrong after I left.  
+
+**Resources**  
+Print I used: https://www.printables.com/model/1814260-shirt-button-v2/files 
 
 
 
