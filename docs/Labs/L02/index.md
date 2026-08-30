@@ -15,7 +15,7 @@ Small group: My group mates were discussing how layer adhesion issues can be sol
 I chose to print a small button, I thought this was a great trial for my first print. It was small, flat, and I could possibly use it.  
 <img src="SC3.png" width="35%" alt="Button">  
 
-I also thought about printing this boat that you pull out of the frame and put together, or another design that worked similarly. However, I thought it may be too complicated or take two long, an I didn't want to hold my group up.  
+I also thought about printing this boat that you pull out of the frame and put together, or another design that worked similarly. However, I thought it may be too complicated or take too long, and I didn't want to hold my group up.  
 <img src="SC2.png" width="35%" alt="Boat"> This may be a good idea for future printing.  
 
 I downloaded the print off of printables as an STL file, so it immediately opened into prusaslicer. I also had my group email me there STL files so I could load them all into the same print.  
@@ -41,7 +41,7 @@ The printer probing: [HERE](https://drive.google.com/file/d/15LfE8RWpBzzbC0ZOXrN
 
 A video of a few minutes into the print [HERE](https://drive.google.com/file/d/19bdVJ75ULQf-HQFY4vueCWedacS3Q1yD/edit)  
 
-We ran into an issue in printing, the nozzle was not taught enough and could not finish printing and had to be restarted.  
+We ran into an issue in printing, the mechanism that pulled the filament into the nozzle was too taught and could not finish printing and had to be restarted.  
 
 Here is the completed print:  
 <img src="IMG_5730.jpeg" width="35%" alt="finalprint"> <img src="IMG_5733.jpeg" width="35%" alt="finalprint2">  
