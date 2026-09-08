@@ -40,12 +40,14 @@ Due to the fact that a die would be thrown around and subject to a lot of repeat
 <img src="finalfill.png" width="35%" alt="Button">  
 
 For the wall thickness, I upped the perimeters walls from the default of 2 to 3. This was to provide extra strength and durability. My print was small enough so that this did not impact print time much. I reduced the top thickness to match the bottom because I didn't want the die to be off weighted, even though it would be basically unnoticeable.  
-<img src="finalsettings.png" width="35%" alt="Button">  
+<img src="finalsettings.png" width="35%" alt="Button">  <img src="finalprinttime.png" width="35%" alt="Button">
 
 I realized later that I may needed to have added extra bottom layers, reasoning will be detailed below.  
 
 
 ## Print  
+
+Video of print: (https://drive.google.com/file/d/1hM7Swf5QeSGAKvbqniCO4VrRDpFQMyh9/view?usp=drive_link)  
 
 
 
