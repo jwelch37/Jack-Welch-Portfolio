@@ -33,9 +33,10 @@ Infill density is important, as it completely impact the structural strength, th
 I loaded my print into Prusaslicer and immediately oriented it so the star pattern was on the surface, this allowed the most surface area to be printed on to reduce the risk of any error.  
 I did not need to scale, as I had dimensioned in SolidWorks to fit the necessary constraints.  
 
-There were multiple infill choices that I was deciding between.  
-<img src="option!.png" width="35%" alt="Button"> <img src="option2.png" width="35%" alt="Button"> <img src="option3.png" width="35%" alt="Button">
+There were multiple infill choices that I was deciding between. Specifically between line and the 3D honeycomb infills. I also was deciding how many perimeter walls to use.  
+<img src="option!.png" width="35%" alt="Button"> <img src="option2.png" width="35%" alt="Button"> <img src="option3.png" width="35%" alt="Button">  
 
+Due to the fact that a die would be thrown around and subject to a lot of repeated impact, I decided to go with 
 
 
 
