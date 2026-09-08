@@ -64,7 +64,8 @@ The top and bottom of my print did not come out clean and smooth and the star on
 However, my print cleared all the stipulations, height, time, PLA used, and no overhangs.  
 
 ## Lessons Learned  
-The biggest lesson I learned was to 
+The biggest lesson I learned was to make sure I am using the appropriate amount of top and bottom layers to accommodate the design on the print.  
+
 
 
 ## Resources
