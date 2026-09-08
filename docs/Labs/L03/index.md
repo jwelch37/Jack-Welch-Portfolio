@@ -49,6 +49,29 @@ I realized later that I may needed to have added extra bottom layers, reasoning 
 
 Video of print: (https://drive.google.com/file/d/1hM7Swf5QeSGAKvbqniCO4VrRDpFQMyh9/view?usp=drive_link)  
 
+From my print from last week, my PrusaSlicer was auto-selected to PETG, but the printer my printing partner Saniyah and I picked was loaded with PLA so I had to go back into PrusaSlicer and change the material.  
+<img src="setting+PLA.png" width="35%" alt="Button">
+
+Here is a close up of the 3D honeycomb infill in the process of being printed.  
+<img src="image3.jpeg" width="35%" alt="Button">  
+
+Our prints came out okay.  
+<img src="image0.jpeg" width="35%" alt="Button">  
+
+The top and bottom of my print did not come out clean and smooth and the star on the bottom wasn't visible at all, I should've increase the amount of bottom and top layers, 4 was not enough.  
+
+However, my print cleared all the stipulations, height, time, PLA used, and no overhangs.  
+
+## Lessons Learned  
+The biggest lesson I learned was to 
+
+
+## Resources
+
+* https://zbotic.in/infill-patterns-explained-which-to-use-for-strength-vs-speed/#concentric
+* https://3dinsider.com/lightning-infill/
+* https://techietory.com/what-is-infill-and-why-dont-prints-need-to-be-solid/
+  
 
 
 
