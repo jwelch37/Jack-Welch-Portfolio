@@ -34,7 +34,8 @@ I loaded my print into Prusaslicer and immediately oriented it so the star patte
 I did not need to scale, as I had dimensioned in SolidWorks to fit the necessary constraints.  
 
 There were multiple infill choices that I was deciding between. Specifically between line and the 3D honeycomb infills. I also was deciding how many perimeter walls to use.  
-<img src="option1.png" width="35%" alt="Button"> <img src="option2.png" width="35%" alt="Button"> <img src="option3.png" width="35%" alt="Button">  
+<img src="option1.png" width="35%" alt="Button"> <img src="option2.png" width="35%" alt="Button"> <img src="option3.png" width="35%" alt="Button"> 
+<img src="option4.png" width="35%" alt="Button">  
 
 Due to the fact that a die would be thrown around and subject to a lot of repeated impact, I decided to go with 3D honeycomb. This was because this infill supports all the perimeters of the cube. The choice of 15% was just a balance between time efficiency while still providing adequate strength.  
 <img src="finalfill.png" width="35%" alt="Button">  
