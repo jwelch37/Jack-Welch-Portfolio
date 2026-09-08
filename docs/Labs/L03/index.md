@@ -3,7 +3,7 @@
 ## Design  
 
 I chose to design a die, I chose this because it made sense for the dimension constraints and allowed me to test how the printer handled small indentation. I made it a cube with a dimension of 0.50 in, because of the max height constraint.  
-<img src="dimension.png" width="35%" alt="Button">  insert  
+<img src="dimension.png" width="35%" alt="Button"> <img src="die.png" width="35%" alt="Button">
 
 For the side of the one side of the die, I chose to make it a star instead of a dot just to add some complexity to the print.  
 <img src="stardraft.png" width="35%" alt="Button">  
