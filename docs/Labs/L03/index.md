@@ -64,7 +64,8 @@ The top and bottom of my print did not come out clean and smooth and the star on
 However, my print cleared all the stipulations, height, time, PLA used, and no overhangs.  
 
 ## Lessons Learned  
-The biggest lesson I learned was to make sure I am using the appropriate amount of top and bottom layers to accommodate the design on the print.  
+The biggest lesson I learned was to make sure I am using the appropriate amount of top and bottom layers to accommodate the design on the print, my print failed at the bottom, and did not fill in entirely on the top, which I wish I had thought of or researched about beforehand. If my design were to be scaled up and were applied to something safety critical it would likely fail, the infill isn't dense and wouldn't support much weight.  
+The time it took for this lab was including design, print and documentation was about 3-4 hours.  
 
 
 
