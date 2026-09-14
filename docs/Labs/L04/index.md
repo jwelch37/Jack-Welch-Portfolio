@@ -23,10 +23,10 @@ For the lengths of the overhang, I wanted them to be tall and deep enough so tha
 
 <img src="dimensions.png" alt="Description" width="40%">  
 
-In PrusaSlicer, I turned supports off, changed the infill to gyroid and to 10% density, and decreased the layer height from 0.15mm to 0.10mm. It was not necessary to scale as I had intentioned my dimensions in SolidWorks.  
+In PrusaSlicer, I turned supports off, changed the infill to gyroid and to 10% density, and decreased the layer height from 0.15mm to 0.10mm. It was not necessary to scale as I had intentioned my dimensions in SolidWorks. I didn't need to change the build orientation from my design, it is meant to have the angles have open space underneath them for testing, so the side facing down was the one with all the overhangs.   
 
 I turned supports off so that the overhangs would be forced to support themselves at different angles, which is the point of this test.  
-Also, I wanted to specifically test the capabilities of the angles of PETG filament, which I read is not as good at overhangs as PLA. With the PETG's capabilities tested as being okay without supports at or below 50 degrees. Additionally, not cosidering material the **FDM Design Rules for 3D printing** label the max overhang as 45 degrees.  
+Also, I wanted to specifically test the capabilities of the angles of PETG filament, which I read is not as good at overhangs as PLA. With the PETG's capabilities tested as being okay without supports at or below 50 degrees. Additionally, not considering material the **FDM Design Rules for 3D printing** labels the max overhang as 45 degrees.  
 
 <img src="PETG.png" alt="Description" width="40%">  
 
@@ -41,9 +41,18 @@ I researched some ways in which this would be possible and these were the most c
 
 I decided to try out the thinner layer option. So I decreased it from the default 0.15mm to 0.10mm.   
 
-<img src="layerheight.png" alt="Description" width="40%">  
+<img src="layerheight.png" alt="Description" width="60%">  
 
 Also, I wanted to choose an infill that had decent coverage on the outer perimeters to support the overhangs, I chose gyroid, as it appeared to cover the overhang walls decently, but I kept the density at 10% as I didn't want to overcompensate for the overhangs.  
+
+<img src="infillwall.png" alt="Description" width="40%">  
+
+The final print time was 31 minutes, this longer time was mainly due to the decrease in layer height, shorter layers = more layers = more time.  
+
+<img src="printtime.png" alt="Description" width="50%">  
+
+
+
 
 
 
