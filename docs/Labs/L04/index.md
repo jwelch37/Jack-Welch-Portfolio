@@ -25,7 +25,28 @@ For the lengths of the overhang, I wanted them to be tall and deep enough so tha
 
 In PrusaSlicer, I turned supports off, changed the infill to gyroid and to 10% density, and decreased the layer height from 0.15mm to 0.10mm. It was not necessary to scale as I had intentioned my dimensions in SolidWorks.  
 
-<img src=".png" alt="Description" width="40%">  
+I turned supports off so that the overhangs would be forced to support themselves at different angles, which is the point of this test.  
+Also, I wanted to specifically test the capabilities of the angles of PETG filament, which I read is not as good at overhangs as PLA. With the PETG's capabilities tested as being okay without supports at or below 50 degrees. Additionally, not cosidering material the **FDM Design Rules for 3D printing** label the max overhang as 45 degrees.  
+
+<img src="PETG.png" alt="Description" width="40%">  
+
+I decided to attempt to try to change a build parameter that may help the overhang print properly beyond the 45-50 degree limit that is usually prescribed.  
+
+I researched some ways in which this would be possible and these were the most common ways to improve overhang printing.  
+-  Lower print speeds at perimeters and overhangs to allow layers to cool  
+-  Increase minimum layer time to allow nozzle to pause and allow layer to cool  
+-  Increase number of perimeters
+-  Thinner layers, so there is less material to sag per layer and cause error
+  Source: https://3dx.info/mastering-overhangs-design-strategies-for-support-free-3d-printing/
+
+I decided to try out the thinner layer option. So I decreased it from the default 0.15mm to 0.10mm.   
+
+<img src="layerheight.png" alt="Description" width="40%">  
+
+Also, I wanted to choose an infill that had decent coverage on the outer perimeters to support the overhangs, I chose gyroid, as it appeared to cover the overhang walls decently, but I kept the density at 10% as I didn't want to overcompensate for the overhangs.  
+
+
+
 
 
 
