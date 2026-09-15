@@ -56,6 +56,7 @@ The final print time was 31 minutes, this longer time was mainly due to the decr
 ## Print  
 My PETG print tested 8 overhangs ranging from 30 to 65 degrees.  
 It appears all of the angles came out very clean and smooth except the 65 degree angle which appears to have a small amount of sagging.  
+Print Video: https://drive.google.com/file/d/1Rn4DzQQuVR_SVua_di2C4EQRPu075xq3/view?usp=sharing  
 
 Angles 50 (right) and 55 (left) degrees.  
 <img src="5055.jpeg" alt="Description" width="30%">  
