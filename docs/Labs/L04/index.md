@@ -55,12 +55,18 @@ The final print time was 31 minutes, this longer time was mainly due to the decr
 
 ## Print  
 My PETG print tested 8 overhangs ranging from 30 to 65 degrees.  
+It appears all of the angles came out very clean and smooth except the 65 degree angle which appears to have a small amount of sagging.  
 
+Angles 50 (right) and 55 (left) degrees.  
+<img src="5055.jpeg" alt="Description" width="30%">  
+
+Angles 60 (right) and 65 (left) degrees.  
+<img src="6065.jpeg" alt="Description" width="30%">  
 
 
 ## Lessons Learned  
 
-The outcome was different than what I originally thought, the angles greater than 45 degrees of which there were four 50-65 degrees all came out much better than I thought they would.  
+The outcome was different than what I originally thought, the angles greater than 45 degrees of which there were four 50-65 degrees all came out much better than I thought they would. The only angle that came out with error was 65 degrees.   
 
 So comparing to the FDM row of the design rule chart that states the max angle that a wall can be printed without supports my print exceeded those specs. This is likely because of the decrease in layer height chosen, which didn't allow much sagging and was more precise. It was my intention to see how the layer height helped the quality of the overhangs and it performed better than I thought. I also think the way I combined the overhangs in pairs of two impacted their quality by giving the overhangs support from the side.  
 
