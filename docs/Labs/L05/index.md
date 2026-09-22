@@ -3,7 +3,7 @@
 ## Objective  
 Parametrically design an assembly of two constituents that snap together by treating the parts as cantilever beams and solving for the geometry using the beam bending equations.
 
-## Analyze  
+## Design  
 
 The design I came up with is a U-shaped bracket with two right triangle extrusions that act as clips for a coin-shaped cylinder to snap into. The cylinder is attached at the bottom to a longer cylinder shell with two cuts down the length so that a squeezing action can be performed on the cylinder.  
 
@@ -28,12 +28,20 @@ I then checked for shear stress in the clip, and compared it to the allowable sh
 
 <img src="clipshear.jpg" alt="Description" width="40%" />  
 
-Finally I created dimensions for the parts of the bracket and cylinder that did not carry loads that needed to be considered or calculated. The connection between the arms I chose as 1.0in so that it would be relatively proportional to the arms, and its thickness I dimensioned to be less than the arms so that it would have less impact on the flexure of the arms. For the cylindrical piece, I made the top cylinders diameter 0.005 inches less than the width of the gap between the arms(0.6 in). I did this to account for accuracy tolerance limitations of the Prusa, from research I found this tolerance to be about 0.004 inches. The 0.005 inch difference would ensure that the cylinder wouldn't print to a diameter larger than the gap.  
+Finally I created dimensions for the parts of the bracket and cylinder that did not carry loads that needed to be considered or calculated. The connection between the arms I chose as 1.0in so that it would be relatively proportional to the arms, and its thickness I dimensioned to be less than the arms so that it would have less impact on the flexure of the arms. For the cylindrical piece, I made the top cylinders diameter 0.005 inch less than the width of the gap between the arms(0.6 in). I did this to account for accuracy tolerance limitations of the Prusa, from research I found this tolerance to be about 0.004 inches. The 0.005 inch difference would ensure that the cylinder wouldn't print to a diameter larger than the gap.  
 
-The lip between the top cylinder and bottom hollow cylinder on each side was 0.05 inches wide, this lip is where the clip would be against when in the clipped in position, so they are equal in width. the diameter i
+The lip between the top cylinder and bottom hollow cylinder on each side was 0.0725 inch wide, this lip is where the clip and fitted cylinder meet. So I made the lip slightly larger than the height of the clip with the idea that it would fit here and not collide with the lower cylinder, and give it the ability to rotate easily. In hindsight I would've made the lip the same as the height of the clip (0.05 in) so that the clip fit snuggly onto the cylinder part. Although Prusa's accuracy tolerances may have made this a bit difficult.  
+
+<img src="finaldraw.jpg" alt="Description" width="40%" />  
 
 
-## Decide
+**Parametric Design:**  
+
+I applied all the parameters that I chose or solved for in the first part of my process into the equations sheet in SolidWorks. I used the beam bending equation for flexing deformation for my length. I chose this parameter because in my calculations I found that beam bending equation to yield a larger minimum length over the one that considered the allowable stress.  
+
+<img src="" alt="Description" width="40%" />  
+
+
 
 
 ## Communicate
