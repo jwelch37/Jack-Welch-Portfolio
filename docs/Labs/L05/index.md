@@ -24,6 +24,13 @@ Next I needed to solve for the length of the to arms of the bracket, I had alrea
 
 The larger of the two lengths would be what I needed to use, which was 1.28 inches.  
 
+I then checked for shear stress in the clip, and compared it to the allowable shear stress, using the safety factor and shear strength of PLA.  
+
+<img src="clipshear.jpg" alt="Description" width="40%" />  
+
+Finally I created dimensions for the parts of the bracket and cylinder that did not carry loads that needed to be considered or calculated. The connection between the arms I chose as 1.0in so that it would be relatively proportional to the arms, and its thickness I dimensioned to be less than the arms so that it would have less impact on the flexure of the arms. For the cylindrical piece, I made the top cylinders diameter 0.005 inches less than the width of the gap between the arms(0.6 in). I did this to account for accuracy tolerance limitations of the Prusa, from research I found this tolerance to be about 0.004 inches. The 0.005 inch difference would ensure that the cylinder wouldn't print to a diameter larger than the gap.  
+
+The lip between the top cylinder and bottom hollow cylinder on each side was 0.05 inches wide, this lip is where the clip would be against when in the clipped in position, so they are equal in width. the diameter i
 
 
 ## Decide
