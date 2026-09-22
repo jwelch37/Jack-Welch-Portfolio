@@ -45,7 +45,14 @@ The parameters for the base and width of the arms was changed. I reduced the bas
 
 Designing the bracket:  
 
-<img src="base.png" alt="Description" width="40%" /> <img src=".png" alt="Description" width="40%" />  <img src="para_eqs.png" alt="Description" width="40%" />  <img src="para_eqs.png" alt="Description" width="40%" />  
+<img src="base.png" alt="Description" width="30%" /> <img src="width.png" alt="Description" width="40%" /> <img src="clip.png" alt="Description" width="40%" />  <img src="arm1.png" alt="Description" width="40%" /> <img src="fillets.png" alt="Description" width="40%" />  <img src="arm2.png" alt="Description" width="40%" />  
+
+The fillets were added to reduce stresses that would occur at the right angles.  
+
+
+Designing the fitted cylinder:  
+
+<img src="cap_diameter.png" alt="Description" width="20%" /> <img src="cap1.png" alt="Description" width="10%" />  <img src="cap2.png" alt="Description" width="20%" /> <img src="cap_section.png" alt="Description" width="20%" />  
 
 
 
