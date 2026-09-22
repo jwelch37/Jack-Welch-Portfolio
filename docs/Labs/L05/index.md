@@ -1,4 +1,4 @@
-# A5 – Design A Snap Fit
+A5 – Design A Snap Fit
 
 ## Objective  
 Parametrically design an assembly of two constituents that snap together by treating the parts as cantilever beams and solving for the geometry using the beam bending equations.
@@ -45,7 +45,7 @@ The parameters for the base and width of the arms was changed. I reduced the bas
 
 Designing the bracket:  
 
-<img src="base.png" alt="Description" width="30%" /> <img src="width.png" alt="Description" width="40%" /> <img src="clip.png" alt="Description" width="40%" />  <img src="arm1.png" alt="Description" width="40%" /> <img src="fillets.png" alt="Description" width="40%" />  <img src="arm2.png" alt="Description" width="40%" />  
+<img src="base.png" alt="Description" width="30%" /> <img src="width.png" alt="Description" width="40%" /> <img src="clip.png" alt="Description" width="40%" />  <img src="arm1.png" alt="Description" width="40%" /> <img src="fillets.png" alt="Description" width="20%" />  <img src="arm2.png" alt="Description" width="40%" />  
 
 The fillets were added to reduce stresses that would occur at the right angles.  
 
@@ -62,7 +62,30 @@ I then made an assembly of the two parts to ensure they fit properly together.
 
 My build orientation was chosen to maximize the strength of the flexure part. My research concluded that to maximize strength the strength in a bending part, the filament layers should run along the length of a part. This lines up with how I oriented my bracket in PrusaSlicer, I oriented it so that the printer would build long flat layers, with the force acting on the flat surface. I drew a picture to visualize this.      
 
-<img src="slicer.png" alt="Description" width="20%" />  
+<img src="slicer.png" alt="Description" width="20%" /> <img src="layers.jpg" alt="Description" width="20%" />  
+
+With this orientation, one of the arms was overhanging and needed supports to print. This was a small downside to this print orientation but was worth it for the increase in strength. 
+
+I considered snug supports and organic supports. The organic supports were the better option here because they printed from the bed instead of from the lower arm like the snug supports did, and reduced the risk of damaging surface of the lower arm, which would've impacted the performance.  
+
+
+<img src="supports.png" alt="Description" width="20%" /> <img src="organic.png" alt="Description" width="20%" />  
+
+I kept the default perimeters but changed the infill to 10% and left it on grid pattern. Due to the size of this print there wasn't much hollow space that infill would be used, and I worried that making the infill too dense would impact its ability to flex.  
+
+A mistake I made was not considering the fact that the cylinder piece would not fit into the bracket and stay on its own. I would've added curved walls on each side or two extra arms so that the cylinder would be supported at all sides.  
+
+**Lessons Learned:**  
+
+Throughout this process I learned how forces can act on two interacting components and how to account for these forces in calculation to make important decisions in their design. I also learned how, even when the calculations have been made on paper, the most important part of ensuring that a design succeeds is the printing process. Which in this case came down to build orientation. Another lesson I learned which I will use in future design is to find a reference for size, as it can be difficult to picture how these dimensions in design will look and act when printed. My print was much smaller than expected and I would've liked it to be a bit bigger.  
+
+This assignment took about 6 hours from start to finish.  
+
+**Resources:**  
+https://www.makerverse.com/resources/3d-printing/stronger-fdm-3d-printing/  
+https://www.engineercalculator.com/polymer-plastic-properties-and-overview/pla-polymer-plastic-various-properties-and-overview/  
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://um-support-files.ultimaker.com/materials/2.85mm/tds/PLA/Ultimaker-PLA-TDS-v5.00.pdf  
+https://help.prusa3d.com/article/support-material_1698  
 
 
 
