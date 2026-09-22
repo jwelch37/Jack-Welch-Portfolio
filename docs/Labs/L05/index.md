@@ -60,5 +60,11 @@ I then made an assembly of the two parts to ensure they fit properly together.
 
 ## Research  
 
+My build orientation was chosen to maximize the strength of the flexure part. My research concluded that to maximize strength the strength in a bending part, the filament layers should run along the length of a part. This lines up with how I oriented my bracket in PrusaSlicer, I oriented it so that the printer would build long flat layers, with the force acting on the flat surface. I drew a picture to visualize this.      
+
+<img src="slicer.png" alt="Description" width="20%" />  
+
+
+
 
 
