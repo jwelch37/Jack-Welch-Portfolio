@@ -13,7 +13,7 @@ Before I could model my parts parametrically in SolidWorks I did a combination o
 
 <img src="axial.jpg" alt="Description" width="40%" />  
 
-Now that I have an minimum area, I can decide a base/height and width, and check to ensure they met the minimum requirement. Throughout my design process the height I chose did not change, but I reduced the width. I didn't want to overcompensate for the axial load and make it more difficult to flex the part.  
+Now that I have an minimum area, I can decide a base/height and width, and check to ensure they met the minimum requirement.  
 
 <img src="bwchoose.jpg" alt="Description" width="40%" />  
 
@@ -39,8 +39,13 @@ The lip between the top cylinder and bottom hollow cylinder on each side was 0.0
 
 I applied all the parameters that I chose or solved for in the first part of my process into the equations sheet in SolidWorks. I used the beam bending equation for flexing deformation for my length. I chose this parameter because in my calculations I found that beam bending equation to yield a larger minimum length over the one that considered the allowable stress.  
 
-<img src="" alt="Description" width="40%" />  
+<img src="para_eqs.png" alt="Description" width="80%" />  
 
+The parameters for the base and width of the arms was changed. I reduced the base and width from 0.3in to 0.2in. I didn't want to overcompensate for the axial load and make it more difficult to flex the part. This became apparent to me when I modeled the part and the arms appeared chunky, especially in relation to the clip. So I went back to my drawing and changed the values, and changed the model.   
+
+Designing the bracket:  
+
+<img src="base.png" alt="Description" width="40%" /> <img src=".png" alt="Description" width="40%" />  <img src="para_eqs.png" alt="Description" width="40%" />  <img src="para_eqs.png" alt="Description" width="40%" />  
 
 
 
