@@ -52,9 +52,13 @@ The fillets were added to reduce stresses that would occur at the right angles.
 
 Designing the fitted cylinder:  
 
-<img src="cap_diameter.png" alt="Description" width="20%" /> <img src="cap1.png" alt="Description" width="10%" />  <img src="cap2.png" alt="Description" width="20%" /> <img src="cap_section.png" alt="Description" width="20%" />  
+<img src="cap_diameter.png" alt="Description" width="20%" /> <img src="d2.png" alt="Description" width="20%" /> <img src="cut1.png" alt="Description" width="20%" /> <img src="cut2.png" alt="Description" width="20%" /> <img src="cap1.png" alt="Description" width="10%" />  <img src="cap2.png" alt="Description" width="20%" /> <img src="cap_section.png" alt="Description" width="20%" />  
+
+I then made an assembly of the two parts to ensure they fit properly together.  
+<img src="Assemble1.png" alt="Description" width="30%" />  <img src="Assemble2.png" alt="Description" width="30%" />  
 
 
+## Research  
 
-## Communicate
+
 
