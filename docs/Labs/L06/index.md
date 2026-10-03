@@ -14,7 +14,11 @@ The artifact I used was an Arduino board and I wanted to create a snap fit brack
 
 These calculations were based on measurements I took of the arduino board. I measured the width of the board, the thickness of the board and the thickness of the board and the height of the pin holes together.  
 
-For the width of the bracket, I wanted it to be very close to the width of the arduino board so that it would fit very snug and not slide side to side. So I designed the bracket with an extra .005in allowance. I would later realize that this was not enough.  
+For the width of the bracket, I wanted it to be very close to the width of the arduino board so that it would fit very snug and not slide side to side. So I designed the bracket with an extra .005in allowance. I would later realize that this was not nearly enough. 
+
+I also added a clearance of 0.05in to the length from the base of the bracket arm and the bottom of clip piece. This was to ensure that the soldered pins at the bottom of the arduino would not interfere and to give an allowance for the fit on the pin holes.  
+
+I designed the part in SolidWorks parametrically, this was especially important for this part because I knew I would likely need to change my values to adjust the fit. 
 
 
 
