@@ -45,6 +45,10 @@ I oriented my build to be laid on its side, which increases strength by creating
 
 <img src="prusa.png" width="50%" alt="Description">  
 
+Final print time:  
+
+<img src="print-time.png" width="50%" alt="Description">  
+
 When the print was completed I tested it and realized that I had not accounted for the amount the arms would need to bend in relation to the length of the base of the clip. Although I could slide the part onto the arduino board, it would bend enough to snap fit onto the board from the bottom. I went back into my model and gave it an extra allowance of about 0.072in and tried again.  
 
 <img src="new_length.png" width="50%" alt="Description">  <img src="long.png" width="60%" alt="Description">  
@@ -57,7 +61,11 @@ This dimension was sufficient in snap fitting onto the board and gave it a snug 
 
 I documented the difference in these lengths with a picture, with the middle part being the final product.  
 
-<img src=".png" width="60%" alt="Description">  
+<img src="length_diff.png" width="60%" alt="Description">   
+
+**Video of Print:** https://drive.google.com/file/d/1jZUB90Jsis3Md0EFb-yboEAqE_ztr2J0/view?usp=sharing  
+
+
 
 
 
