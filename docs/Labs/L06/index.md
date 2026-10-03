@@ -73,5 +73,5 @@ I documented the difference in these lengths with a picture, with the middle par
 
 I learned a lot about allowances and considering all parts of a build when considering them. My initial mistake when finding the allowance for the width of the board was simply that I only considered the tolerance of the Prusa's dimensioning capabilities. I created an ideal fit in practice that didn't work when considering how the part needed to snap fit. So I found a sweet spot between fit and the arms ability to bend, I also realize I could have decreased the connecting sections width a little to account for the bending problem. Although my decisions for the allowance on the length of the arm were surprisingly accurate, considering it was an educated guess, as I did not have access to the calipers to measure the height of the soldering on the bottom of the board. Another mistake I made was with the perimeters and infill, I should have increased the perimeters to prevent the fatigue failure that occurred at the bending joint, I also do not think I needed to lower the layer height, considering the size of my build that level of precision was not necessary.  
 
-
+This assignment took between 8-9 hours to complete.  
 
