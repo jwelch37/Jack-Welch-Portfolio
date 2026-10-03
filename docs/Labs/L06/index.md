@@ -6,7 +6,8 @@
 -Use constraints in CAD  
 -Test your design, if it does not fit properly redo.  
 
-## Analyze
+
+##Parametric Design  
 
 The artifact I used was an Arduino board and I wanted to create a snap fit bracket that wraps around two sides of the board, could not be pulled back off and had a snug fit. Before I designed in SolidWorks I used beam bending equations to determine appropriate dimensions, so that the snap fit bending would not cause failure in the arms and would be thin enough to bend properly. I made multiple decisions for the dimensions and decided a factor of safety of 3. I solved for the minimum width of the brackets needed to withstand the deformation, which I decided based on the length of the snap fit clip.  
 
@@ -26,6 +27,8 @@ My original modelling. I added fillets at the bending point to decrease stress c
 
 <img src="oglength.png" width="50%" alt="Description"> <img src="arm-dim.png" width="40%" alt="Description"> <img src="triangle-dim.png" width="40%" alt="Description"> <img src="triangle.png" width="60%" alt="Description"> <img src="fillet.png" width="60%" alt="Description"> <img src="finalmodel.png" width="60%" alt="Description">  
 
+##Print and Remodelling
+
 In my print I decreased the perimeters because I wanted to ensure give the arms less strength to allow for sufficient bending. Although this may have been helpful for that purpose I realized it was a mistake if I had actually wanted to use this part repeatedly as the joint where the bending occurs began to break after repeated uses.  
 
 <img src="perimeters.png" width="50%" alt="Description">  
@@ -42,9 +45,21 @@ I oriented my build to be laid on its side, which increases strength by creating
 
 <img src="prusa.png" width="50%" alt="Description">  
 
-When the print was completed I tested it and realized that I had not accounted for the amount the arms would need to bend in relation to the length of the base of the clip. Although I could slide the part onto the arduino board, it would bend enough to snap fit onto the board from the bottom. I went back into my model and gave it an extra allowance of about 0.08in and tried again.  
+When the print was completed I tested it and realized that I had not accounted for the amount the arms would need to bend in relation to the length of the base of the clip. Although I could slide the part onto the arduino board, it would bend enough to snap fit onto the board from the bottom. I went back into my model and gave it an extra allowance of about 0.072in and tried again.  
 
-<img src=".png" width="60%" alt="Description"> 
+<img src="new_length.png" width="50%" alt="Description">  <img src="long.png" width="60%" alt="Description">  
+
+On this try the part clipped onto the arduino easily, but it slide from side to side with too much space, which was against my design intent. So I printed a third time, and decreased the allowance by 0.04in.  
+
+<img src="final_length.png" width="50%" alt="Description">  
+
+This dimension was sufficient in snap fitting onto the board and gave it a snug fit.  
+
+I documented the difference in these lengths with a picture, with the middle part being the final product.  
+
+<img src=".png" width="60%" alt="Description">  
+
+
 
 
 
