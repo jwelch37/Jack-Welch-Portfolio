@@ -24,7 +24,27 @@ I designed the part in SolidWorks parametrically, this was especially important 
 
 My original modelling. I added fillets at the bending point to decrease stress concentrating there.  
 
-<img src="oglength.png" width="50%" alt="Description"> <img src="arm-dim.png" width="40%" alt="Description"> <img src="triangle-dim.png" width="40%" alt="Description"> <img src="triangle.png" width="60%" alt="Description"> <img src="fillet.png" width="60%" alt="Description"> 
+<img src="oglength.png" width="50%" alt="Description"> <img src="arm-dim.png" width="40%" alt="Description"> <img src="triangle-dim.png" width="40%" alt="Description"> <img src="triangle.png" width="60%" alt="Description"> <img src="fillet.png" width="60%" alt="Description"> <img src="finalmodel.png" width="60%" alt="Description">  
+
+In my print I decreased the perimeters because I wanted to ensure give the arms less strength to allow for sufficient bending. Although this may have been helpful for that purpose I realized it was a mistake if I had actually wanted to use this part repeatedly as the joint where the bending occurs began to break after repeated uses.  
+
+<img src="perimeters.png" width="50%" alt="Description">  
+
+I decreased the layer height to increase precision, although it would take more time, I wanted to ensure that the dimensions were as precise as possible.  
+
+<img src="layer_heigh.png" width="50%" alt="Description"> 
+
+I used the infill to compensate for any loss of strength from the perimeters by using honeycomb, which does well at distributing stress across the part. Although I kept the fill density low for time.  
+
+<img src="fill.png" width="60%" alt="Description">  
+
+I oriented my build to be laid on its side, which increases strength by creating the layers larger across the application of force. It would have been stronger if I oriented so that one arm was on the print bed and the other was hanging and used supports. I chose the former to save time, and it would have made the connection between the two arms weaker, which also bends and needs strength.  
+
+<img src="prusa.png" width="50%" alt="Description">  
+
+When the print was completed I tested it and realized that I had not accounted for the amount the arms would need to bend in relation to the length of the base of the clip. Although I could slide the part onto the arduino board, it would bend enough to snap fit onto the board from the bottom. I went back into my model and gave it an extra allowance of about 0.08in and tried again.  
+
+<img src=".png" width="60%" alt="Description"> 
 
 
 
