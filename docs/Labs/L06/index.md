@@ -22,7 +22,11 @@ I designed the part in SolidWorks parametrically, this was especially important 
 
 <img src="equations.png" width="60%" alt="Description">  
 
-<img src=".png" width="60%" alt="Description"> <img src="equations.png" width="60%" alt="Description"> <img src="equations.png" width="60%" alt="Description">  
+My original modelling. I added fillets at the bending point to decrease stress concentrating there.  
+
+<img src="oglength.png" width="50%" alt="Description"> <img src="arm-dim.png" width="40%" alt="Description"> <img src="triangle-dim.png" width="40%" alt="Description"> <img src="triangle.png" width="60%" alt="Description"> <img src="fillet.png" width="60%" alt="Description"> 
+
+
 
 
 
