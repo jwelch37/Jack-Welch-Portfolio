@@ -21,11 +21,15 @@ The clip was to be a little over an inch in height in total, with the arms being
 
 I then added the extension for the glasses, I made the width of the extension slightly smaller than the width of the bridge of my glasses. I did not want the holder to bend or interfere with the nose cushions on my glasses.  
 
-I made the curved holder out of an oval which I then cut in half and added extra material at the support.  
+I made the curved extension out of an oval which I then cut in half and added extra material at the support. I chose this shape to prevent the glasses from sliding out while the car was moving but wasn't difficult to slip the glasses in.  
 
 <img src="oval.png" width="50%" alt="Description"> <img src="oval_cut.png" width="50%" alt="Description">  
 
-<img src=".png" width="50%" alt="Description">  
+<img src="holder.png" width="50%" alt="Description">  
+
+After my original print, I realized that this holder was way too thin to support the weight of the glasses, and my biggest mistake during this was not noticing this either in SolidWorks or Prusa. In Prusa the holder was only a single filament thick, and I should have known that wouldn't work.  
+
+
 
 
 
