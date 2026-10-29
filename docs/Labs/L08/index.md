@@ -17,7 +17,9 @@ The clip was to be a little over an inch in height in total, with the arms being
 
 <img src="base.png" width="50%" alt="Description">  
 
-<img src=".png" width="50%" alt="Description">  
+<img src="model.initial.png" width="50%" alt="Description">  
+
+I then added the extension for the glasses, 
 
 
 
