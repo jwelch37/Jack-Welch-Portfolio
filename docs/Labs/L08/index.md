@@ -1,4 +1,4 @@
-# A8 – Design Something Useful
+A8 – Design Something Useful
 
 ## Objective
 Use what you have learned thus far to design and 3D print something useful and or functional. 
@@ -17,9 +17,15 @@ The clip was to be a little over an inch in height in total, with the arms being
 
 <img src="base.png" width="50%" alt="Description">  
 
-<img src="model.initial.png" width="50%" alt="Description">  
+<img src="model_initial.png" width="50%" alt="Description">  
 
-I then added the extension for the glasses, 
+I then added the extension for the glasses, I made the width of the extension slightly smaller than the width of the bridge of my glasses. I did not want the holder to bend or interfere with the nose cushions on my glasses.  
+
+I made the curved holder out of an oval which I then cut in half and added extra material at the support.  
+
+<img src="oval.png" width="50%" alt="Description"> <img src="oval_cut.png" width="50%" alt="Description">  
+
+<img src=".png" width="50%" alt="Description">  
 
 
 
