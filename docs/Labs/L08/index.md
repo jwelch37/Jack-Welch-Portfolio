@@ -1,15 +1,23 @@
-A8 – Design Something Useful
+# A8 – Design Something Useful
 
 ## Objective
 Use what you have learned thus far to design and 3D print something useful and or functional. 
- 
+
+## Design Question  
+
+Asking smart questions matters for multiple reasons. They encourage learning, and asking the right questions can allow someone to think more creatively and critically about what matters in a design. This is to gain by both the person asking the question and the person being asked. It is a great way of working through a problem with a team, besides simply thinking through options that come to mind, asking questions to a team allows everyone to think of the issue in other ways.  
+
 
 ## Problem Statement
 
 Many vehicles have a compartment to hold glasses, mine and many other cars do not have that feature. I don't wear glasses everyday but I need them to drive at night safely, so I usually keep them in my car. However, I don't have a good spot to put them and they often end up being dropped around my car, and this problem most recently caused some minor damage to my glasses. So I am designing a small piece that clips onto the sun visor and can hold my glasses in place from the middle, that way they will not get lost and are easy to access. This product can be used by anybody with a car who wears either prescription or sunglasses, which is most people. I'm approaching this design around this ability for it to be functional for anyone, I am not designing it with exact specification to my glasses or sun visor. However I did use them for basic dimensions.
 
 
-## Design
+## Design 
+
+I made an initial sketch of how I wanted the clip to work and how it would fit onto the visor.  
+
+<img src="1000001521.jpg" width="50%" alt="Description">  
 
 To begin, I used a caliper to get the approximate dimensions of my sun visor and the width of the bridge of my glasses. I decided that the holder should be a thin curved extension that the glasses are slid into from the nose bridge between the lenses. The curvature will prevent the glasses from falling out on their own. 
 
@@ -67,7 +75,15 @@ Video of print:
 
 https://drive.google.com/file/d/197EQusEHATLIltqjYXXcsOxL7xkJv0MU/view?usp=sharing  
 
-The print in action:  
+The part in action:  
+
+<img src="IMG_0553.jpeg" width="50%" alt="Description">  
+
+## Lessons Learned  
+
+A mistake I made was not considering for plastic deformation in the compression of the the clip onto the visor, after using the part for a few days, the arms had become permanently deformed. I should have either made the arms or backing thicker, or not used the gap in the back. More perimeters may also have helped. I do not think changing they infill would've had much impact because there wasn't much infill being used.  
+
+This design took about 6-8 hours from start to finish.  
 
 
 
