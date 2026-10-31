@@ -31,9 +31,17 @@ After my original print, I realized that this holder was way too thin to support
 
 So after my first print failed, I redesigned the holder to be thicker. 
 
-I also added fillets at the 
+I also added fillets at the end of the holder to avoid any snag on the glasses. I added on on the ends of the arms to make it easier to slide onto the visor. Then I added them between the arms and the backing to avoid stress and deformation when the arms bend.  
 
-<img src=".png" width="50%" alt="Description"> 
+<img src="fillet1.png" width="50%" alt="Description"> <img src="fillet2.png" width="50%" alt="Description"> <img src="fillet3.png" width="50%" alt="Description">  
+
+My final design with the improved holder.  
+
+<img src="final_design.png" width="50%" alt="Description">  
+
+## 3D Print  
+
+
 
 
 
