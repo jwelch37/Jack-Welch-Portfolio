@@ -27,7 +27,13 @@ I made the curved extension out of an oval which I then cut in half and added ex
 
 <img src="holder.png" width="50%" alt="Description">  
 
-After my original print, I realized that this holder was way too thin to support the weight of the glasses, and my biggest mistake during this was not noticing this either in SolidWorks or Prusa. In Prusa the holder was only a single filament thick, and I should have known that wouldn't work.  
+After my original print, I realized that this holder was way too thin to support the weight of the glasses, and my biggest mistake during this was not noticing this either in SolidWorks or Prusa. In Prusa the holder was only a single filament thick, and I should have figured that wouldn't work.  
+
+So after my first print failed, I redesigned the holder to be thicker.  
+
+<img src="holder.png" width="50%" alt="Description"> 
+
+
 
 
 
