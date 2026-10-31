@@ -19,7 +19,7 @@ The clip was to be a little over an inch in height in total, with the arms being
 
 <img src="model_initial.png" width="50%" alt="Description">  
 
-I then added the extension for the glasses, I made the width of the extension slightly smaller than the width of the bridge of my glasses. I did not want the holder to bend or interfere with the nose cushions on my glasses.  
+I then added the extension for the holder of the glasses, I made the width of the extension slightly smaller than the width of the bridge of my glasses. I did not want the holder to bend or interfere with the nose cushions on my glasses.  
 
 I made the curved extension out of an oval which I then cut in half and added extra material at the support. I chose this shape to prevent the glasses from sliding out while the car was moving but wasn't difficult to slip the glasses in.  
 
@@ -35,11 +35,41 @@ I also added fillets at the end of the holder to avoid any snag on the glasses. 
 
 <img src="fillet1.png" width="50%" alt="Description"> <img src="fillet2.png" width="50%" alt="Description"> <img src="fillet3.png" width="50%" alt="Description">  
 
-My final design with the improved holder.  
+I then added a gap between the arms connection to improve the capacity to bend.  
+
+My final design with the improved holder:  
 
 <img src="final_design.png" width="50%" alt="Description">  
 
 ## 3D Print  
+
+In the preprocessor, I chose pretty typical settings. I used 2 perimeter wall thickness, and a 15% rectilinear infill. All the parts of the clip were thin and didn't use that much infill if at all, so I figured increasing it wouldn't impact the function much, I realized this was a small mistake later. I chose rectilinear some what arbitrarily, the arms were too thin for the shape to appear. I used a layer height of 0.15mm, which is default, there were no high precision parts necessary so I did not change it. 
+
+<img src="infill.png" width="50%" alt="Description">  
+<img src="layer_height.png" width="50%" alt="Description">  
+
+
+I had to use supports for the holder and the gap in the backing. I first used snug supports but I realized they would be difficult to remove from the the gap. So I used organic supports automatically generated, but they did not automatically print on the gap, so I used paint-on support.  
+
+ 
+<img src="paint_support.png" width="50%" alt="Description">  
+<img src="support.png" width="50%" alt="Description">  
+
+I used small wire snips to remove the supports.  
+
+For the layout of the build orientation, I placed it on its side, this was to increase strength over printing it on the back. It would've been stronger if I printed it on the side opposite the holder, but this would've required a lot of supports, which would've been harder to remove and decrease the surface finish.  
+
+The build volume:  
+
+<img src="paint_support.png" width="50%" alt="Description">  
+
+Video of print:  
+
+https://drive.google.com/file/d/197EQusEHATLIltqjYXXcsOxL7xkJv0MU/view?usp=sharing  
+
+The print in action:  
+
+
 
 
 
