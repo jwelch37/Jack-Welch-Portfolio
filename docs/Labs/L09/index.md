@@ -1,13 +1,16 @@
-# A9 – Pulleys
+# A9 – Laser Cutter
 
-## Objective
+## Design
 
+For my teammate Saniyah and I's design, we decided to make a small model house that can be easily constructed and deconstructed. We wanted it to have four walls, two roof panels that met in a peak, and a bar that connects the front and back to add stability.  
 
-## Analyze
-
-
-## Decide
+Before we designed, we made test coupons to measure kerf. First we made a square of nominal width and base of 20mm and then a comb-like shape with three different gap widths based on the measured thickness of the test square to test the fit between them.  
 
 
-## Communicate
+
+
+## Manufacturing
+
+
+## Lessons Learned
 
