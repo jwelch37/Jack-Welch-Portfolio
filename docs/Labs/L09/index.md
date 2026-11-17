@@ -22,8 +22,17 @@ We found the 2.54mm gap to be the best fit, which aligned with our measured kerf
 From there we began designing the parts to our house build, the walls and floor we decided to be 75mm x 75mm squares with notches of equal length on each end that would match with the other walls. We decided the roof should have more notches because they would be positioned at an angle need more security. Something we initially overlooked was making the floor notches the same depth as all the other notches. So in another version we made the floor notches the nominal thickness of the board plus a kerf clearance so that the notches would be flush with the floor.  
 
 **Walls:**  
-<img src=".png" width="50%" alt="Description">  
-<img src="testfit2.png" width="50%" alt="Description">  
+<img src="front_back_initial.png" width="50%" alt="Description">  
+<img src="front_back_final.png" width="50%" alt="Description">  
+<img src="front_para.png" width="50%" alt="Description">  
+The second photo has the revised floor pegs.  
+
+**Roof:**  
+<img src="roof1.png" width="50%" alt="Description">  
+<img src="roof2_para.png" width="50%" alt="Description">  
+
+**Connection Bar:**  
+<img src="connectionbar.png" width="50%" alt="Description">  
 
 
 ## Manufacturing  
