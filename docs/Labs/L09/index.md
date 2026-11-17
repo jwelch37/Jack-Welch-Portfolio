@@ -34,8 +34,34 @@ The second photo has the revised floor pegs.
 **Connection Bar:**  
 <img src="connectionbar.png" width="50%" alt="Description">  
 
-
 ## Manufacturing  
+### Research 
+Laser cutting works by using C02 and exciting it with electrons and focusing that released energy from instable C02 into photons. The photons are foucused with mirrors to create a strong laser. It terms of cost, it depends on the application whether it is more affordable to FDM or laser cut, for long sheets of continous material, laser cutting is both cheaper, faster, and more feasible. If you want a 3D model with discrete details, FDM makes more sense for cost and material options.  
+
+### Laser Process Record  
+<img src="process_log.png" width="50%" alt="Description">  
+
+### Video of Cutting  
+
+
+
+### Kerf of Coupon and Fit Test  
+
+We had to kerf tests, one with more power on the laser for the 1/4" wood setting, which is the one with more char.  
+
+
+### Cutting process and results  
+
+For the first test kerf coupon, we used the cut settings for 1/4" wood from a recommendation from a peer, this was because on previous tries, the laser would not cut through the 3mm wood all the way. This resulted in poor edge quality and lots of char. We later solved this problem by making the laser complete two passes instead of one.  
+
+In inkscape, we first made a test print to do to ensure that two parts would fit together like we planned.  
+<img src="drawparts1.png" width="30%" alt="Description">  
+
+Then we printed the rest of the parts as one layout.  
+<img src="drawparts2.png" width="30%" alt="Description">  
+
+
+
 
 
 ## Lessons Learned
