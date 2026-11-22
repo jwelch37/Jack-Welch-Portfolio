@@ -43,11 +43,19 @@ Laser cutting works by using C02 and exciting it with electrons and focusing tha
 
 ### Video of Cutting  
 
+https://drive.google.com/file/d/15pSiy_LtLx28q8USoU_EGogPNOENUaf7/view?usp=sharing  
+
+
 
 
 ### Kerf of Coupon and Fit Test  
 
-We had to kerf tests, one with more power on the laser for the 1/4" wood setting, which is the one with more char.  
+We had two kerf tests, one with more power on the laser for the 1/4" wood setting, which is the one with more char. Then we had a kerf coupon with less char, which had a lower speed on the 1/8" setting, which helped solve the problem of the laser not cutting all the way through in all places but not completely. So in the final cut we increased the passes to 2, this completely solved the issue. This was all necessary because if we had to snap off each piece it would drastically decrease the edge quality.  
+
+<img src="process_log.png" width="50%" alt="Description">  
+<img src="process_log.png" width="50%" alt="Description">  
+<img src="process_log.png" width="50%" alt="Description">  
+
 
 
 ### Cutting process and results  
@@ -58,7 +66,13 @@ In inkscape, we first made a test print to do to ensure that two parts would fit
 <img src="drawparts1.png" width="30%" alt="Description">  
 
 Then we printed the rest of the parts as one layout.  
-<img src="drawparts2.png" width="30%" alt="Description">  
+<img src="drawparts2.png" width="30%" alt="Description">   
+
+As for the layout, we arranged them as close together as we could without the lasers going over a spot twice. Although it would have made sense to align them edge to edge so that the kerf might be reduced on the edges, they wouldn't be critical parts so it wasn't necessary. We also arranged these two inkscape files so that they could both be used on the same piece of wood.  
+
+The floor and roof came out with correct fits to all the mated parts. Our only problem was with the corresponding walls. Saniyah and I both model a pair of walls, although we used the same kerf, the way we implemented it differed. This was an issue caused by poor communication, and it resulted in a few failed cuts.  
+
+We also had to reprint the connection bars because they were too short and although it fit end to end, it was too difficult to assemble.  
 
 
 
