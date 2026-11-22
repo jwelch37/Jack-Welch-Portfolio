@@ -42,6 +42,19 @@ For the preform preprocessing I used the one-click auto orientation and supports
 <img src="thickness.png" width="50%" alt="Description">  
 <img src="volume.png" width="50%" alt="Description">  
 
+## Post-Processing  
+
+The print came out well the first time, and the supports were easy to remove but left a lot of small pieces from the touchpoints that I had to scrape off.  
+
+I washed the print for five minutes and cured it for ten minutes.  
+
+<img src="unwashed.png" width="50%" alt="Description">  
+<img src="cure.png" width="50%" alt="Description">  
+<img src="assemble.png" width="50%" alt="Description">  
+
+The surface finish was dusty at first when I first used the sliding fit, but after some wiping with a towel it achieved a mostly smooth surface finish. The accuracy was quite accurate, the parts slide somewhat ease and stayed in place. There was one part of the shaft that had a warped bump which was difficult to slide across. The parts slid better after curing.  
+
+
 
 
 
