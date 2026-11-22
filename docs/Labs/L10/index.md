@@ -58,5 +58,3 @@ The surface finish was dusty at first when I first used the sliding fit, but aft
 
 
 
-## Communicate
-
