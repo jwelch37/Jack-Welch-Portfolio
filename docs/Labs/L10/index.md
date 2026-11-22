@@ -67,6 +67,6 @@ Curing improved the fit, and the surface roughness made it harder to move the ho
 **Resources:**  
 Machinery's Handbook  
 https://mechcodex.com/reference/ansi-standard-fits  
-
+https://www.liqcreate.com/supportarticles/resin-shrinkage-compensation/  
 
 
