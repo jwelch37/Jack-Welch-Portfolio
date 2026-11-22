@@ -3,8 +3,11 @@
 
 ## Research and Planning  
 
+I chose a 0.3 in nominal hole size for my fit. The tolerance range is 0.0002-0.00085in for that nominal size.  
 
+**Hand Sketch:**  
 
+<img src="conceptdraw.jpg" width="50%" alt="Description">  
 
 
 RC2 fits are used in many applications. Like automotive components for shafts and bearings without friction or machinery like conveyor belt systems that need to turn easily but not move freely in and out. Any application that allows free turning but not excessive assembly and disassembly.  
@@ -55,6 +58,15 @@ I washed the print for five minutes and cured it for ten minutes.
 The surface finish was dusty at first when I first used the sliding fit, but after some wiping with a towel it achieved a mostly smooth surface finish. The accuracy was quite accurate, the parts slide somewhat ease and stayed in place. There was one part of the shaft that had a warped bump which was difficult to slide across. The parts slid better after curing.  
 
 
+## Lessons Learned  
+
+The challenges that arose achieving a proper RC2 fit was the SLA printing process and the factor of shrinkage. Since my test fit got confusing results I used an incorrect factor for expansion. This still resulted in a functional fit, but it wasn't technically a RC2 fit.  
+
+Curing improved the fit, and the surface roughness made it harder to move the hole across the shaft at points. To improve the accuracy next time, I want to cure the parts longer, and make a tighter clearance to properly account for shrinkage, this would result in a more accurate RC2 fit.  
+
+**Resources:**  
+Machinery's Handbook  
+https://mechcodex.com/reference/ansi-standard-fits  
 
 
 
