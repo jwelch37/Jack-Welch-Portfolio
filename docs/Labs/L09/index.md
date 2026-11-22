@@ -52,10 +52,6 @@ https://drive.google.com/file/d/15pSiy_LtLx28q8USoU_EGogPNOENUaf7/view?usp=shari
 
 We had two kerf tests, one with more power on the laser for the 1/4" wood setting, which is the one with more char. Then we had a kerf coupon with less char, which had a lower speed on the 1/8" setting, which helped solve the problem of the laser not cutting all the way through in all places but not completely. So in the final cut we increased the passes to 2, this completely solved the issue. This was all necessary because if we had to snap off each piece it would drastically decrease the edge quality.  
 
-<img src="process_log.png" width="50%" alt="Description">  
-<img src="process_log.png" width="50%" alt="Description">  
-<img src="process_log.png" width="50%" alt="Description">  
-
 
 
 ### Cutting process and results  
@@ -75,8 +71,41 @@ The floor and roof came out with correct fits to all the mated parts. Our only p
 We also had to reprint the connection bars because they were too short and although it fit end to end, it was too difficult to assemble.  
 
 
+**Final Assembly:**  
 
-
+<img src="IMG_6957.jpeg" width="30%" alt="Description">   
 
 ## Lessons Learned
+
+### Process Log 
+
+<img src="processlog1.png" width="50%" alt="Description">  
+<img src="processlog2.png" width="50%" alt="Description">  
+<img src="processlog3.png" width="50%" alt="Description">  
+<img src="processlog4.png" width="50%" alt="Description">  
+
+Our main mistake was the incorrect dimensioning between walls that we separately modeled. There were three reprints of my modeled walls.  
+
+**Failed Parts:**  
+<img src="IMG_0649.jpeg" width="50%" alt="Description">   
+
+### Reflection Prompts  
+
+The nominal thickness was 3mm, but we measured mostly values below that. We thought this wouldn't result in problems cutting all the way through the wood but that ended up not being the case, and considering we only used one printer throughout the process it was most likely an issue with the lens or mirrors on the laser. The expected kerf was less than the measured, so if we had used that expected throughout the printing, we would've ended up with loose joints.  
+
+Our joints between the walls were not perfect and are very slightly loose, if these were printed in mass it would lead to customer dissatisfaction.  
+
+A real product that uses cut sheet parts with tabs and joints are consumer electronics, these are made with very tight clearances, especially as quality increases. A kerf or thickness error would result in lower durability, possibly knocking loose connected pieces when dropped. This would become a possibly expensive fix.  
+
+If I had one more cut, I would make sure to put everything into a CAD assembly to make sure all mated pieces have kerf accounted for in the correct places.  
+
+### Resources
+
+3mm x 300mm x 300mm wood panels, 2 sheets. No consumables were needed for cleanup. We did initially try to use a small knife to cut off residual broken pieces before we found the correct settings to cut all the way through the wood.  
+
+
+
+
+
+
 
