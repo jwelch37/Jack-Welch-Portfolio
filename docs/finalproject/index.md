@@ -22,7 +22,16 @@ An anemometer, which is three to four cups that spin and are used to measure win
 
 
 **Portable Phone Stand**  
-I cook a lot of my meals, and I also like to watch youtube on my phone while I cook, and most of the time my phone is an annoying or hard to see location, or around food, which is unhygienic. So I want to build a collapsible and portable phone stand that I can carry between my room, kitchen, and table 
+I cook a lot of my meals, and I also like to watch youtube on my phone while I cook, and most of the time my phone is in an annoying or hard to see location, or around food, which is unhygienic. So I want to build a collapsible and portable phone stand that I can carry between my room, kitchen, and table and fit my phone into.  
+
+
+### Problem Selection  
+
+I felt that the phone stand would be in the goldilocks zone of useful and feasible considering my resources. I want to solve this issue by creating a base piece and holder piece that are connected by a pin. This will allow it to fold into itself and be easily portable. The pin can be made out of SLA resin, this is ideal because I want the pin to have a close fit and SLA has smaller, controllable tolerances that will allow me to form a good fit.  
+
+### Testing Critical Features with Prototype Base  
+
+I wanted to test print my pins and a prototype design of the base of the holder. This will allow me to get a feel for the size and shape of the phone stand and test the clearance of the holes.  
 
 
 
