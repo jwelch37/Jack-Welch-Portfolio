@@ -62,6 +62,12 @@ I wanted to test print my pins and a prototype design of the base of the holder.
 **Pin models:**  
 I wanted the pins to match in the middle of the holder's hole and press fit in the middle to stay intact. So I made a fit with a 0.02 in clearance, I wanted to make a large clearance because the "hole" part of the fit would shrink during curing. The pins themselves are 0.290in.  
 
+<img src="pin1.png" width="50%" alt="Description">  
+<img src="pin1_key1.png" width="50%" alt="Description">  
+<img src="pin2_lock1.png" width="50%" alt="Description">  
+<img src="pin1_final.png" width="50%" alt="Description">  
+<img src="pins_print1.png" width="50%" alt="Description">  
+
 
 **Base model:**  
 
