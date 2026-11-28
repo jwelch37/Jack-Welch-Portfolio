@@ -68,14 +68,20 @@ I wanted the pins to match in the middle of the holder's hole and press fit in t
 <img src="pin1_final.png" width="50%" alt="Description">  
 <img src="pins_print1.png" width="50%" alt="Description">  
 
+The pins were printed with clear resin.  
+
 
 **Base model:**  
 
 I made the base wide with a large surface area, I thought this would be good for weight and be supportive for the counter weight of the phone. The holes in the base are 0.310in. This would be a 0.02in clearance between hole and shaft, this would be a larger clearance after the shafts shrink. I based this fit off of my RC2 fit SLA print which was tight and would be ideal for my design intention, although it would be different because the hole portion will be FDM. Since this is mainly intended for a test, I wanted to see how loose or tight this fit would be and how I should adjust.  
 
+<img src="base_prototype.png" width="50%" alt="Description">  
+<img src="base_proto_print.png" width="50%" alt="Description">  
+
 
 **Results:**  
 
+The fit between the pins and hole on the base was quite loose and was functional but I would've preferred it to be tighter for control on opening or closing. The biggest issue was the fit between the pins, which was much too tight, and during assembly as I was trying to force the two pieces together one of them chipped. This means I would need to increase the clearance and possibly use grey resin, which is more ductile than clear resin.  
 
 
 
@@ -85,6 +91,12 @@ I made the base wide with a large surface area, I thought this would be good for
 ## Part 2
 
 
-### Peer Feedback  
+### Refinement/Remodel Based on Feedback  
+
+### Final Prototype  
+
+### Final Video  
+
+
 
 
