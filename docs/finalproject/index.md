@@ -49,7 +49,7 @@ I felt that the phone stand would be in the goldilocks zone of useful and feasib
 
 I made a rough sketch of my intended design.
 
-<img src="conceptdraw.jpg" width="50%" alt="Description">  
+<img src="sketch1.jpg" width="50%" alt="Description">  
 
 My intended clearance on the holes and between the holder and stand should be feasible with an SLA pin considering that the pin fit doesn't need to be close fitting and with SLA's dimensional accuracy.  
 
