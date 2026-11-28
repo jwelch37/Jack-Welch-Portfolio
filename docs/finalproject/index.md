@@ -27,18 +27,18 @@ The best way to compensate for kerf is to model a cut dimension a set amount lar
 **Xbox Controller Holder**  
 I thought about creating a stand for my two xbox controllers, I have no real place for them and also loose them often. I thought about making a base with laser cut wood, and then a limited stand taking up limited space and mass, that is modeled to perfectly hold two xbox controllers. My main issue with this is that there aren't many features that require much engineering work to make better, it can be very simple and very efficient with just a wood base and FDM stand.  
 
-<img src="conceptdraw.jpg" width="50%" alt="Description">  
+<img src="Screenshot 2026-11-27 204459.png" width="50%" alt="Description">  
 
 **Anemometer**  
 An anemometer, which is three to four cups that spin and are used to measure wind speed. I really like this idea and find it very interesting, but it doesn't have a "real" use to me or anyone I know. Although it would be cool to program and build the anemometer, and to read wind speeds with my own design. It would also be too complicated to actually finish to complete functionality in my time frame.  
 
-<img src="conceptdraw.jpg" width="50%" alt="Description">  
+<img src="Screenshot 2026-11-27 204525.png" width="50%" alt="Description">  
 
 
 **Portable Phone Stand**  
 I cook a lot of my meals, and I also like to watch youtube on my phone while I cook, and most of the time my phone is in an annoying or hard to see location, or around food, which is unhygienic. So I want to build a collapsible and portable phone stand that I can carry between my room, kitchen, and table and fit my phone into.  
 
-<img src="conceptdraw.jpg" width="50%" alt="Description">  
+<img src="Screenshot 2026-11-27 204553.png" width="50%" alt="Description">  
 
 
 ### Problem Selection  
@@ -58,6 +58,20 @@ My intended clearance on the holes and between the holder and stand should be fe
 I wanted to test print my pins and a prototype design of the base of the holder. This will allow me to get a feel for the size and shape of the phone stand and test the clearance of the holes.  
 
 <img src="conceptdraw.jpg" width="50%" alt="Description">  
+
+**Pin models:**  
+I wanted the pins to match in the middle of the holder's hole and press fit in the middle to stay intact. So I made a fit with a 0.02 in clearance, I wanted to make a large clearance because the "hole" part of the fit would shrink during curing. The pins themselves are 0.290in.  
+
+
+**Base model:**  
+
+I made the base wide with a large surface area, I thought this would be good for weight and be supportive for the counter weight of the phone. The holes in the base are 0.310in. This would be a 0.02in clearance between hole and shaft, this would be a larger clearance after the shafts shrink. I based this fit off of my RC2 fit SLA print which was tight and would be ideal for my design intention, although it would be different because the hole portion will be FDM. Since this is mainly intended for a test, I wanted to see how loose or tight this fit would be and how I should adjust.  
+
+
+**Results:**  
+
+
+
 
 
 
