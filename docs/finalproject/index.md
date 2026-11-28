@@ -57,7 +57,6 @@ My intended clearance on the holes and between the holder and stand should be fe
 
 I wanted to test print my pins and a prototype design of the base of the holder. This will allow me to get a feel for the size and shape of the phone stand and test the clearance of the holes.  
 
-<img src="conceptdraw.jpg" width="50%" alt="Description">  
 
 **Pin models:**  
 I wanted the pins to match in the middle of the holder's hole and press fit in the middle to stay intact. So I made a fit with a 0.02 in clearance, I wanted to make a large clearance because the "hole" part of the fit would shrink during curing. The pins themselves are 0.290in.  
